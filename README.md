@@ -539,8 +539,8 @@ type: 'function' } ]
 * Marketplace Seller: https://testnets.opensea.io/0xF9C0e027224764f98608d5571327C1DC8A6BF152
 
 * Marketplace Buyers: 
-- https://testnets.opensea.io/0x26481dbE79d005F30E62C950505039986a2FA248
-- https://testnets.opensea.io/0x8CC6EbcBEf90D40CA782E3D011B017EAa5F76608
+  https://testnets.opensea.io/0x26481dbE79d005F30E62C950505039986a2FA248
+  https://testnets.opensea.io/0x8CC6EbcBEf90D40CA782E3D011B017EAa5F76608
   
   
 
